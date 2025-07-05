@@ -62,7 +62,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 15px 0 0 0;
+  padding: 15px 0 15px 0;
 }
 .section4 .subcontent img {
   padding: 0 7px 0 0;
@@ -211,8 +211,7 @@ hr {
   background-color: #1c7c31;
   /* darker green */
   color: #fff;
-  box-shadow: 0 0 15px rgba(40, 167, 69, 0.7);
-  transform: scale(1.05);
+  transform: rotate(360deg);
 }
 .section8 .sidecontent .btn #btn2 {
   border-radius: 50%;
@@ -235,8 +234,7 @@ hr {
   background-color: #b52a38;
   /* darker red */
   color: #fff;
-  box-shadow: 0 0 15px rgba(220, 53, 69, 0.7);
-  transform: scale(1.05);
+  transform: rotate(360deg);
 }
 .section8 .vid {
   display: flex;
